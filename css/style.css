@@ -12,6 +12,10 @@ h1 h2 h3 h4 h5 h6{
 
 /* Footer */
 
+.logo{
+  padding-top: 100px;
+}
+
 #footer {
   background-color: #222;
   color: #aaaaaa;
@@ -172,7 +176,8 @@ h1 h2 h3 h4 h5 h6{
 
 .presentation2{
  font-size: 28px;
- padding: 80px;
+ padding-bottom: 80px;
+ padding-top: 120px;
  color: black;
 }
 
@@ -183,7 +188,8 @@ text-decoration: none;
 
 .presentation3{
  font-size: 28px;
- padding: 95px;
+ padding-bottom: 80px;
+ padding-top: 120px;
 }
 
 .presentation3 a{
