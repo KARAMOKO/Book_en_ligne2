@@ -246,7 +246,7 @@ text-decoration: none;
 .presentation3{
  font-size: 28px;
  padding-bottom: 80px;
- padding-top: 200px;
+ padding-top: 80px;
 }
 
 .presentation3 a{
@@ -260,9 +260,10 @@ color: white;
 
 }
 
+
 .presentation4{
- font-size: 28px;
- padding: 150px;
+ 
+ padding: 80px;
  color: white;
 }
 
