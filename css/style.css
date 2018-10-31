@@ -6,9 +6,30 @@ body {
 font-family: 'Open Sans', sans-serif;
 }
 
+body {
+  
+  
+font-family: 'Open Sans', sans-serif;
+}
+
+
+@media (max-width: 600px) {
+  body{
+    font-size: 17px;
+  }
+}
+
 h1 h2 h3 h4 h5 h6{
   font-family: 'Montserrat', sans-serif;
 }
+
+
+
+
+
+
+
+
 
 /* Footer */
 
@@ -99,11 +120,33 @@ h1 h2 h3 h4 h5 h6{
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 /* Vertical spacer to help content breathe */
 
 .vertical-spacer {
   height: 8em;
 }
+
+
+
+
+
+
+
+
+
+
 
 /* How to override the default Bootstrap navbar */
 
@@ -128,6 +171,14 @@ h1 h2 h3 h4 h5 h6{
   color: white;
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+
+
+
+
+
+
+
 
 
 .carte{
@@ -159,6 +210,12 @@ h1 h2 h3 h4 h5 h6{
  background-color:black;
  color: white;
 
+}
+
+@media (max-width: 600px) {
+  .contactermoi {
+    font-size: 16px
+  }
 }
 
 .contactermoi a{
@@ -241,6 +298,8 @@ padding-right: 20px;
   color: #c0392b;
 }
 
+/* Build your own button classes ! */
+
 
 .btn-medium {
   color: #999999;
@@ -271,6 +330,14 @@ padding-right: 20px;
 }
 
 /* Build your own button classes ! */
+
+
+
+
+
+
+
+
 
 
 /* Banner */
