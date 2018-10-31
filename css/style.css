@@ -13,11 +13,6 @@ font-family: 'Open Sans', sans-serif;
 }
 
 
-@media (max-width: 600px) {
-  body{
-    font-size: 17px;
-  }
-}
 
 h1 h2 h3 h4 h5 h6{
   font-family: 'Montserrat', sans-serif;
@@ -269,7 +264,6 @@ color: white;
  font-size: 28px;
  padding: 150px;
  color: white;
- float: left;
 }
 
 
@@ -280,8 +274,8 @@ color: white;
 }
 
 
-.presentation4 h1{
-  padding-left: 10px;
+.presentation4 h2{
+
      border-left: 3px solid #eeeeee;
      padding-bottom: 6px;
      margin-bottom: 20px;
@@ -292,11 +286,10 @@ color: white;
 
 .presentation4 ul li{
  color: white;
-text-decoration: none;
-font-size: 18px;
-padding-right: 20px;
-}
+list-style: none;
+font-size: 16px;
 
+}
 
 
 .mail i{
@@ -428,6 +421,9 @@ padding-right: 20px;
   opacity: 0.6;
   margin-bottom: 30px;
 }
+
+
+
 
 /* contact*/
 
